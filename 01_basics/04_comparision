@@ -15,3 +15,4 @@ console.log(undefined > 0);
 console.log(undefined < < 0);
 
 // isme sab me false hi aata hai 
+
