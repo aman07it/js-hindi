@@ -1,5 +1,5 @@
 console.log(null> 0);
-console.log(null 0);
+console.log(null==0);
 console.log(null >= 0);
 
 
@@ -12,7 +12,7 @@ That's why (3) null >= 0 is true and (1) null > 0 is false.
 
 console.log(undefined == 0);
 console.log(undefined > 0);
-console.log(undefined < < 0);
+console.log(undefined <= 0);
 
 // isme sab me false hi aata hai 
 
